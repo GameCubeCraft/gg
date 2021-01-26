@@ -1,0 +1,9 @@
+{
+    "variants": 
+    { 
+        "normal":
+        {
+            "model": "newmob:scp_bloqueur_compresse"
+        }
+    }
+}
